@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="300500" started-at="2018-08-12T16:39:32Z" finished-at="2018-08-12T16:44:33Z">
+    <groups>
+      <group name="CheckAppInstall">
+        <method signature="AppInstallTest.verifyAppInstall()[pri:0, instance:com.vuclip.testcases.AppInstallTest@78e67e0a]" name="verifyAppInstall" class="com.vuclip.testcases.AppInstallTest"/>
+      </group> <!-- CheckAppInstall -->
+      <group name="SearchVideoByName">
+        <method signature="AppHomePageTest.SearchVideo(java.lang.String)[pri:0, instance:com.vuclip.testcases.AppHomePageTest@3043fe0e]" name="SearchVideo" class="com.vuclip.testcases.AppHomePageTest"/>
+      </group> <!-- SearchVideoByName -->
+      <group name="DownloadVideo">
+        <method signature="VideoContentPageTest.DownloadVideoTest()[pri:0, instance:com.vuclip.testcases.VideoContentPageTest@2781e022]" name="DownloadVideoTest" class="com.vuclip.testcases.VideoContentPageTest"/>
+      </group> <!-- DownloadVideo -->
+      <group name="PlayVideo">
+        <method signature="VideoContentPageTest.PlayVideo()[pri:0, instance:com.vuclip.testcases.VideoContentPageTest@2781e022]" name="PlayVideo" class="com.vuclip.testcases.VideoContentPageTest"/>
+      </group> <!-- PlayVideo -->
+      <group name="SelectSearchedVideo">
+        <method signature="SearchResultPageTest.SelectVideoByNameTest(java.lang.String)[pri:0, instance:com.vuclip.testcases.SearchResultPageTest@bd8db5a]" name="SelectVideoByNameTest" class="com.vuclip.testcases.SearchResultPageTest"/>
+      </group> <!-- SelectSearchedVideo -->
+    </groups>
+    <test name="Default test" duration-ms="300500" started-at="2018-08-12T16:39:32Z" finished-at="2018-08-12T16:44:33Z">
+      <class name="com.vuclip.testcases.AppHomePageTest">
+        <test-method status="PASS" signature="SearchVideo(java.lang.String)[pri:0, instance:com.vuclip.testcases.AppHomePageTest@3043fe0e]" name="SearchVideo" duration-ms="15873" depends-on-groups="CheckAppInstall" started-at="2018-08-12T22:09:34Z" finished-at="2018-08-12T22:09:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lego Batman Trailer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SearchVideo -->
+      </class> <!-- com.vuclip.testcases.AppHomePageTest -->
+      <class name="com.vuclip.testcases.VideoContentPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.vuclip.testcases.VideoContentPageTest@2781e022]" name="setUp" is-config="true" duration-ms="55901" started-at="2018-08-12T22:08:37Z" finished-at="2018-08-12T22:09:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DownloadVideoTest()[pri:0, instance:com.vuclip.testcases.VideoContentPageTest@2781e022]" name="DownloadVideoTest" duration-ms="218984" depends-on-groups="CheckAppInstall, SearchVideoByName, SelectSearchedVideo" started-at="2018-08-12T22:09:52Z" finished-at="2018-08-12T22:13:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DownloadVideoTest -->
+        <test-method status="PASS" signature="PlayVideo()[pri:0, instance:com.vuclip.testcases.VideoContentPageTest@2781e022]" name="PlayVideo" duration-ms="62338" depends-on-groups="CheckAppInstall, SearchVideoByName, DownloadVideo, SelectSearchedVideo" started-at="2018-08-12T22:13:31Z" finished-at="2018-08-12T22:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PlayVideo -->
+        <test-method status="PASS" signature="captureStatus()[pri:0, instance:com.vuclip.testcases.VideoContentPageTest@2781e022]" name="captureStatus" is-config="true" duration-ms="0" started-at="2018-08-12T22:14:33Z" finished-at="2018-08-12T22:14:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- captureStatus -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.vuclip.testcases.VideoContentPageTest@2781e022]" name="teardown" is-config="true" duration-ms="5272" started-at="2018-08-12T22:14:33Z" finished-at="2018-08-12T22:14:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.vuclip.testcases.VideoContentPageTest -->
+      <class name="com.vuclip.testcases.SearchResultPageTest">
+        <test-method status="PASS" signature="SelectVideoByNameTest(java.lang.String)[pri:0, instance:com.vuclip.testcases.SearchResultPageTest@bd8db5a]" name="SelectVideoByNameTest" duration-ms="1972" depends-on-groups="CheckAppInstall, SearchVideoByName" started-at="2018-08-12T22:09:50Z" finished-at="2018-08-12T22:09:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Lego Batman Trailer]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectVideoByNameTest -->
+      </class> <!-- com.vuclip.testcases.SearchResultPageTest -->
+      <class name="com.vuclip.testcases.AppInstallTest">
+        <test-method status="PASS" signature="verifyAppInstall()[pri:0, instance:com.vuclip.testcases.AppInstallTest@78e67e0a]" name="verifyAppInstall" duration-ms="1314" started-at="2018-08-12T22:09:32Z" finished-at="2018-08-12T22:09:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAppInstall -->
+      </class> <!-- com.vuclip.testcases.AppInstallTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

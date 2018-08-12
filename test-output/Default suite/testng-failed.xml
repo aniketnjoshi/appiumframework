@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="com.vuclip.testcases.VideoContentPageTest">
+        <methods>
+          <include name="DownloadVideoTest"/>
+          <include name="PlayVideo"/>
+          <include name="setUp"/>
+          <include name="captureStatus"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- com.vuclip.testcases.VideoContentPageTest -->
+      <class name="com.vuclip.testcases.AppHomePageTest">
+        <methods>
+          <include name="SearchVideo"/>
+        </methods>
+      </class> <!-- com.vuclip.testcases.AppHomePageTest -->
+      <class name="com.vuclip.testcases.AppInstallTest">
+        <methods>
+          <include name="verifyAppInstall"/>
+        </methods>
+      </class> <!-- com.vuclip.testcases.AppInstallTest -->
+      <class name="com.vuclip.testcases.SearchResultPageTest">
+        <methods>
+          <include name="SelectVideoByNameTest"/>
+        </methods>
+      </class> <!-- com.vuclip.testcases.SearchResultPageTest -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

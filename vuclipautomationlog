@@ -1,0 +1,591 @@
+2018-08-12 20:59:17 DEBUG Init:55 - Application file path = D:\Personal\ViuMovies.apk
+2018-08-12 20:59:17 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 20:59:17 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 20:59:51 INFO  Init:27 - ****************************************************************************************
+2018-08-12 20:59:51 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Application install verification  $$$$$$$$$$$$$$$$$
+2018-08-12 20:59:51 INFO  Init:27 - ****************************************************************************************
+2018-08-12 20:59:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 20:59:52 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Application install verification-END--  XXXXXXXXXXXXXX
+2018-08-12 20:59:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 20:59:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 20:59:52 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search Video  $$$$$$$$$$$$$$$$$
+2018-08-12 20:59:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 20:59:52 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/iv_search
+2018-08-12 20:59:56 DEBUG Init:50 - Searching video - Lego Batman Trailer
+2018-08-12 21:00:06 DEBUG Init:50 - video name matching
+2018-08-12 21:00:06 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:00:06 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search Video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:00:06 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:00:06 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:00:06 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search video by Name  $$$$$$$$$$$$$$$$$
+2018-08-12 21:00:06 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:00:06 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/viu_search_container
+2018-08-12 21:00:08 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:00:08 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search video by Name-END--  XXXXXXXXXXXXXX
+2018-08-12 21:00:08 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:00:08 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:00:08 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Download video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:00:08 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:00:08 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/v_detail_episode_name
+2018-08-12 21:01:06 DEBUG Init:50 - Downloading video.
+2018-08-12 21:01:08 DEBUG Init:50 - current download status - 0%
+2018-08-12 21:01:08 DEBUG Init:50 - waiting for 1 min
+2018-08-12 21:02:49 DEBUG Init:50 - download not completed yet
+2018-08-12 21:02:49 DEBUG Init:50 - waiting for 1 min
+2018-08-12 21:04:09 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:04:09 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Download video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:04:09 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:04:09 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:04:09 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Play video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:04:09 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:05:31 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:05:31 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Play video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:05:31 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:05:36 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2018-08-12 21:05:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2018-08-12 21:05:36 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2018-08-12 21:05:36 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2018-08-12 21:05:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2018-08-12 21:05:36 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2018-08-12 21:05:36 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2018-08-12 21:05:36 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2018-08-12 21:05:36 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2018-08-12 21:05:37 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2018-08-12 21:05:37 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2018-08-12 21:05:37 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2018-08-12 21:05:37 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2018-08-12 21:05:37 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2018-08-12 21:05:37 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2018-08-12 21:05:37 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:05:37 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:05:37 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:05:37 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:05:37 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2018-08-12 21:05:37 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2018-08-12 21:05:37 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2018-08-12 21:05:37 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2018-08-12 21:05:37 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2018-08-12 21:05:37 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2018-08-12 21:05:37 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2018-08-12 21:05:37 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2018-08-12 21:05:37 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2018-08-12 21:05:37 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2018-08-12 21:05:37 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2018-08-12 21:21:18 DEBUG Init:55 - Application file path = D:\Personal\ViuMovies.apk
+2018-08-12 21:21:18 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:21:18 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:21:46 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:21:46 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Application install verification  $$$$$$$$$$$$$$$$$
+2018-08-12 21:21:46 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:21:47 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:21:47 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Application install verification-END--  XXXXXXXXXXXXXX
+2018-08-12 21:21:47 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:21:47 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:21:47 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search Video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:21:47 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:21:47 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/iv_search
+2018-08-12 21:22:03 DEBUG Init:50 - Searching video - Lego Batman Trailer
+2018-08-12 21:22:13 DEBUG Init:50 - video name matching
+2018-08-12 21:22:13 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:22:13 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search Video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:22:13 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:22:13 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:22:13 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search video by Name  $$$$$$$$$$$$$$$$$
+2018-08-12 21:22:13 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:22:13 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/viu_search_container
+2018-08-12 21:22:13 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:22:13 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search video by Name-END--  XXXXXXXXXXXXXX
+2018-08-12 21:22:13 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:22:13 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:22:13 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Download video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:22:13 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:22:13 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/v_detail_episode_name
+2018-08-12 21:23:16 ERROR Init:40 - Expected condition failed: waiting for presence of element located by: By.id: com.vuclip.viu:id/v_detail_episode_name (tried for 60 second(s) with 500 milliseconds interval)[Ljava.lang.StackTraceElement;@18a3962d
+2018-08-12 21:23:20 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2018-08-12 21:23:20 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2018-08-12 21:23:20 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2018-08-12 21:23:20 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2018-08-12 21:23:20 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2018-08-12 21:23:20 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2018-08-12 21:23:20 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2018-08-12 21:23:20 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2018-08-12 21:23:20 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2018-08-12 21:23:20 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2018-08-12 21:23:20 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2018-08-12 21:23:20 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2018-08-12 21:23:20 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2018-08-12 21:23:20 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:23:21 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:23:21 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:23:21 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2018-08-12 21:23:21 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2018-08-12 21:23:21 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2018-08-12 21:23:21 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2018-08-12 21:23:21 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2018-08-12 21:23:21 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2018-08-12 21:23:21 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2018-08-12 21:23:21 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2018-08-12 21:23:21 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2018-08-12 21:23:21 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2018-08-12 21:23:21 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2018-08-12 21:24:22 DEBUG Init:55 - Application file path = D:\Personal\ViuMovies.apk
+2018-08-12 21:24:22 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:24:22 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:24:49 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:24:49 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Application install verification  $$$$$$$$$$$$$$$$$
+2018-08-12 21:24:49 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:24:50 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:24:50 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Application install verification-END--  XXXXXXXXXXXXXX
+2018-08-12 21:24:50 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:24:50 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:24:50 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search Video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:24:50 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:24:50 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/iv_search
+2018-08-12 21:24:58 DEBUG Init:50 - Searching video - Lego Batman Trailer
+2018-08-12 21:25:07 DEBUG Init:50 - video name matching
+2018-08-12 21:25:07 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:25:07 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search Video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:25:07 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:25:07 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:25:07 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search video by Name  $$$$$$$$$$$$$$$$$
+2018-08-12 21:25:07 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:25:07 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/viu_search_container
+2018-08-12 21:25:09 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:25:09 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search video by Name-END--  XXXXXXXXXXXXXX
+2018-08-12 21:25:09 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:25:09 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:25:09 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Download video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:25:09 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:25:09 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/v_detail_episode_name
+2018-08-12 21:25:37 DEBUG Init:50 - Downloading video.
+2018-08-12 21:25:39 DEBUG Init:50 - current download status - 0%
+2018-08-12 21:25:39 DEBUG Init:50 - waiting for 1 min
+2018-08-12 21:27:00 DEBUG Init:50 - download not completed yet
+2018-08-12 21:27:00 DEBUG Init:50 - waiting for 1 min
+2018-08-12 21:28:00 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:28:00 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Download video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:28:00 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:28:00 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:28:00 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Play video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:28:00 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:29:02 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:29:02 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Play video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:29:02 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:29:07 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:29:07 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:29:07 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2018-08-12 21:29:07 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2018-08-12 21:29:07 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2018-08-12 21:29:07 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2018-08-12 21:30:02 DEBUG Init:55 - Application file path = D:\Personal\ViuMovies.apk
+2018-08-12 21:30:02 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:30:02 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:30:43 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:30:43 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Application install verification  $$$$$$$$$$$$$$$$$
+2018-08-12 21:30:43 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:30:45 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:30:45 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Application install verification-END--  XXXXXXXXXXXXXX
+2018-08-12 21:30:45 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:30:45 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:30:45 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search Video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:30:45 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:30:45 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/iv_search
+2018-08-12 21:31:16 DEBUG Init:50 - Searching video - Lego Batman Trailer
+2018-08-12 21:31:27 DEBUG Init:50 - video name matching
+2018-08-12 21:31:27 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:31:27 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search Video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:31:27 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:31:27 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:31:27 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search video by Name  $$$$$$$$$$$$$$$$$
+2018-08-12 21:31:27 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:31:27 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/viu_search_container
+2018-08-12 21:31:29 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:31:29 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search video by Name-END--  XXXXXXXXXXXXXX
+2018-08-12 21:31:29 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:31:29 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:31:29 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Download video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:31:29 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:31:29 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/v_detail_episode_name
+2018-08-12 21:32:28 DEBUG Init:50 - Downloading video.
+2018-08-12 21:32:30 DEBUG Init:50 - current download status - 0%
+2018-08-12 21:32:51 DEBUG Init:50 - waiting for 1 min
+2018-08-12 21:33:51 DEBUG Init:50 - download not completed yet
+2018-08-12 21:33:51 DEBUG Init:50 - current download status - 0%
+2018-08-12 21:33:51 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:33:51 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Download video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:33:51 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:33:51 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:33:51 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Play video  $$$$$$$$$$$$$$$$$
+2018-08-12 21:33:51 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:34:53 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:34:53 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Play video-END--  XXXXXXXXXXXXXX
+2018-08-12 21:34:53 INFO  Init:27 - ****************************************************************************************
+2018-08-12 21:34:57 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2018-08-12 21:34:57 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2018-08-12 21:34:57 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:34:58 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:34:58 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:34:58 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2018-08-12 21:34:58 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2018-08-12 21:34:58 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2018-08-12 21:34:58 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2018-08-12 21:37:54 DEBUG Init:55 - Application file path = ViuMovies.apk
+2018-08-12 21:37:54 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:37:54 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:38:21 DEBUG Init:55 - Application file path = ViuMovies.apk
+2018-08-12 21:38:21 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:38:21 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:38:25 ERROR Init:40 - It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: '114759-T470P', ip: '172.17.180.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: AndroidDriver[Ljava.lang.StackTraceElement;@41330d4f
+2018-08-12 21:39:36 DEBUG Init:55 - Application file path = ViuMovies.apk
+2018-08-12 21:39:37 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:39:37 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:50:56 DEBUG Init:55 - Application file path = ViuMovies.apk
+2018-08-12 21:50:56 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:50:56 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:50:58 ERROR Init:40 - It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: '114759-T470P', ip: '172.17.180.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: AndroidDriver[Ljava.lang.StackTraceElement;@41330d4f
+2018-08-12 21:52:00 DEBUG Init:55 - Application file path = ViuMovies.apk
+2018-08-12 21:52:00 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:52:00 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:52:02 ERROR Init:40 - It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: '114759-T470P', ip: '172.17.180.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: AndroidDriver[Ljava.lang.StackTraceElement;@41330d4f
+2018-08-12 21:52:19 DEBUG Init:55 - Application file path = ViuMovies.apk
+2018-08-12 21:52:19 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:52:19 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:52:23 ERROR Init:40 - It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: '114759-T470P', ip: '172.17.180.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: AndroidDriver[Ljava.lang.StackTraceElement;@41330d4f
+2018-08-12 21:52:45 DEBUG Init:55 - Application file path = ViuMovies.apk
+2018-08-12 21:52:45 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:52:45 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:52:49 ERROR Init:40 - It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: '114759-T470P', ip: '172.17.180.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: AndroidDriver[Ljava.lang.StackTraceElement;@41330d4f
+2018-08-12 21:56:04 DEBUG Init:55 - Application file path = src/ViuMovies.apk
+2018-08-12 21:56:04 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:56:04 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:56:08 ERROR Init:40 - It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: '114759-T470P', ip: '172.17.180.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: AndroidDriver[Ljava.lang.StackTraceElement;@38145825
+2018-08-12 21:57:12 DEBUG Init:55 - Application file path = src/ViuMovies.apk
+2018-08-12 21:57:12 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:57:13 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 21:58:35 DEBUG Init:55 - Application file path = src\ViuMovies.apk
+2018-08-12 21:58:35 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 21:58:36 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 22:00:39 DEBUG Init:55 - Application file path = c:\ViuMovies.apk
+2018-08-12 22:00:39 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 22:00:39 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 22:01:59 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:01:59 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Application install verification  $$$$$$$$$$$$$$$$$
+2018-08-12 22:01:59 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:03:10 DEBUG Init:55 - Application file path = C:\Users\anjoshi\eclipse-workspace\automationframework\ViuMovies.apk
+2018-08-12 22:03:10 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 22:03:10 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 22:04:16 DEBUG Init:55 - Application file path = C:\Users\anjoshi\eclipse-workspace\automationframework\ViuMovies.apk
+2018-08-12 22:04:16 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 22:04:16 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 22:04:34 ERROR Init:40 - It is impossible to create a new session because 'createSession' which takes HttpClient, InputStream and long was not found or it is not accessible
+Build info: version: '3.13.0', revision: '2f0d292', time: '2018-06-25T15:32:14.902Z'
+System info: host: '114759-T470P', ip: '172.17.180.33', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'
+Driver info: driver.version: AndroidDriver[Ljava.lang.StackTraceElement;@38145825
+2018-08-12 22:05:14 DEBUG Init:55 - Application file path = C:\Users\anjoshi\eclipse-workspace\automationframework\ViuMovies.apk
+2018-08-12 22:05:14 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 22:05:14 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 22:06:35 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:35 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Application install verification  $$$$$$$$$$$$$$$$$
+2018-08-12 22:06:35 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:36 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:36 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Application install verification-END--  XXXXXXXXXXXXXX
+2018-08-12 22:06:36 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:36 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:36 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search Video  $$$$$$$$$$$$$$$$$
+2018-08-12 22:06:36 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:36 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/iv_search
+2018-08-12 22:06:42 DEBUG Init:50 - Searching video - Lego Batman Trailer
+2018-08-12 22:06:52 DEBUG Init:50 - video name matching
+2018-08-12 22:06:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:52 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search Video-END--  XXXXXXXXXXXXXX
+2018-08-12 22:06:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:52 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search video by Name  $$$$$$$$$$$$$$$$$
+2018-08-12 22:06:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:52 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/viu_search_container
+2018-08-12 22:06:54 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:54 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search video by Name-END--  XXXXXXXXXXXXXX
+2018-08-12 22:06:54 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:54 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:54 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Download video  $$$$$$$$$$$$$$$$$
+2018-08-12 22:06:54 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:06:54 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/v_detail_episode_name
+2018-08-12 22:07:56 ERROR Init:40 - Expected condition failed: waiting for presence of element located by: By.id: com.vuclip.viu:id/v_detail_episode_name (tried for 60 second(s) with 500 milliseconds interval)[Ljava.lang.StackTraceElement;@47289387
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 22:08:01 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 22:08:01 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2018-08-12 22:08:01 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2018-08-12 22:08:01 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2018-08-12 22:08:01 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
+2018-08-12 22:08:37 DEBUG Init:55 - Application file path = C:\Users\anjoshi\eclipse-workspace\automationframework\ViuMovies.apk
+2018-08-12 22:08:37 DEBUG Init:55 - Device Name = 4d9f930b
+2018-08-12 22:08:37 DEBUG Init:55 - Appium server URL = http://0.0.0.0:4723/wd/hub
+2018-08-12 22:09:32 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:32 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Application install verification  $$$$$$$$$$$$$$$$$
+2018-08-12 22:09:32 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:34 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:34 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Application install verification-END--  XXXXXXXXXXXXXX
+2018-08-12 22:09:34 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:34 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:34 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search Video  $$$$$$$$$$$$$$$$$
+2018-08-12 22:09:34 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:34 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/iv_search
+2018-08-12 22:09:40 DEBUG Init:50 - Searching video - Lego Batman Trailer
+2018-08-12 22:09:50 DEBUG Init:50 - video name matching
+2018-08-12 22:09:50 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:50 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search Video-END--  XXXXXXXXXXXXXX
+2018-08-12 22:09:50 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:50 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:50 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Search video by Name  $$$$$$$$$$$$$$$$$
+2018-08-12 22:09:50 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:50 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/viu_search_container
+2018-08-12 22:09:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:52 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Search video by Name-END--  XXXXXXXXXXXXXX
+2018-08-12 22:09:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:52 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Download video  $$$$$$$$$$$$$$$$$
+2018-08-12 22:09:52 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:09:52 DEBUG Init:50 - waiting for element by id - com.vuclip.viu:id/v_detail_episode_name
+2018-08-12 22:10:48 DEBUG Init:50 - Downloading video.
+2018-08-12 22:10:50 DEBUG Init:50 - current download status - 0%
+2018-08-12 22:11:10 DEBUG Init:50 - waiting for 1 min
+2018-08-12 22:12:10 DEBUG Init:50 - download not completed yet
+2018-08-12 22:12:10 DEBUG Init:50 - current download status - 0%
+2018-08-12 22:12:31 DEBUG Init:50 - waiting for 1 min
+2018-08-12 22:13:31 DEBUG Init:50 - download not completed yet
+2018-08-12 22:13:31 DEBUG Init:50 - current download status - 0%
+2018-08-12 22:13:31 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:13:31 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Download video-END--  XXXXXXXXXXXXXX
+2018-08-12 22:13:31 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:13:31 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:13:31 INFO  Init:27 - $$$$$$$$$$$$$$$$$$$$$  Play video  $$$$$$$$$$$$$$$$$
+2018-08-12 22:13:31 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:14:33 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:14:33 INFO  Init:27 - XXXXXXXXXXXXXXXXXXXXXXX  --TESTCASE-Play video-END--  XXXXXXXXXXXXXX
+2018-08-12 22:14:33 INFO  Init:27 - ****************************************************************************************
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "index.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("index_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("index.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "index.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/index.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "head.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("head_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("head.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "head.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/head.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "nav.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("nav.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "nav.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/nav.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "test-view/test-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "test-view/test-view-charts.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/test-view-charts.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "test-view/test-view-charts.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/test-view-charts.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "test-view/standard.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("test-view/standard.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "test-view/standard.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/test-view/standard.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 22:14:38 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 22:14:38 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 22:14:38 DEBUG cache:45 - "test-view/standard.ftl"("en", UTF-8, parsed) cached copy not yet stale; using cached.
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "category-view/category-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("category-view/category-view.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "category-view/category-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/category-view/category-view.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "author-view/author-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("author-view/author-view.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "author-view/author-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/author-view/author-view.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "exception-view/exception-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("exception-view/exception-view.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "exception-view/exception-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/exception-view/exception-view.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("dashboard-view/dashboard-view.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "dashboard-view/dashboard-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/dashboard-view/dashboard-view.ftl"
+2018-08-12 22:14:38 DEBUG cache:45 - Couldn't find template in cache for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed); will try to load it.
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view_en.ftl"): Not found
+2018-08-12 22:14:38 DEBUG cache:45 - TemplateLoader.findTemplateSource("logs-view/testrunner-logs-view.ftl"): Found
+2018-08-12 22:14:38 DEBUG cache:45 - Loading template for "logs-view/testrunner-logs-view.ftl"("en", UTF-8, parsed) from "jar:file:/C:/Users/anjoshi/.m2/repository/com/aventstack/extentreports/3.1.5/extentreports-3.1.5.jar!/com/aventstack/extentreports/view/html-report/logs-view/testrunner-logs-view.ftl"
